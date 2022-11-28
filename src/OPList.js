@@ -19,7 +19,7 @@ function OPList() {
     let text = courseList.text();
     let ga = text.split("%");
     let te = ga.map((data) => data + "%");
-    console.log(text);
+    console.log(te);
   }
   parsing();
 }
