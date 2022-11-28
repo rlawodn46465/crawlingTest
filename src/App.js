@@ -1,8 +1,8 @@
 import './App.css';
-import OPList from './OPList';
+import arr from './OPList';
 
 function App() {
-  console.log(OPList);
+  console.log(arr);
   return (
     <div>
       리액트 정리
